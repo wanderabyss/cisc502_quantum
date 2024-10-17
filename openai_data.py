@@ -3,10 +3,10 @@ import pytesseract
 from pdf2image import convert_from_path
 import pandas as pd
 
-openai.api_key = ''  # Replace with your actual OpenAI API key
+openai.api_key = ''  # OpenAI API key
 
 # Step 1: Convert PDF to images
-pdf_path = 'JPMC2023.pdf'
+pdf_path = 'JPMC-2.pdf'
 pages = convert_from_path(pdf_path)
 
 # Step 2: Function to search for pages with relevant keywords
