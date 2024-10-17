@@ -1,0 +1,12 @@
+streamlit
+torch 
+torchvision 
+torchaudio
+lightning 
+pennylane
+tensorboard
+plotly
+openai
+pandas
+pytesseract
+PyPDF2
