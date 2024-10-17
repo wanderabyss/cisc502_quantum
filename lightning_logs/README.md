@@ -1,2 +1,0 @@
-# Harnessing Quantum AI
-
